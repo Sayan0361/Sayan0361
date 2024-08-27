@@ -7,13 +7,13 @@
 - 🌱 I’m currently learning React.js and advanced DSA
 - 💬 Ask me about Java, Python, DSA
 - 📫 How to reach me: [sayansen0361@gmail.com](mailto:sayansen0361@gmail.com)
+- You can also check my leetcode profile: (https://leetcode.com/u/Sayan_Sen/)
 
 ### Connect with me:
 - [GitHub](https://github.com/Sayan0361)
 - [Instagram](https://www.instagram.com/sayan_sen007/)
 - [Facebook](https://m.facebook.com/profile.php?id=100040647903469)
-- [LeetCode](https://leetcode.com/u/Sayan_Sen/)
-- - [LinkedIn](https://www.linkedin.com/in/sayan-sen-38b198255)
+- [LinkedIn](https://www.linkedin.com/in/sayan-sen-38b198255)
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c)
