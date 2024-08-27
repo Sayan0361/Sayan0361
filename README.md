@@ -28,8 +28,6 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
-### GitHub Stats:
-![Sayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical)
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 <!--
