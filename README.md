@@ -13,6 +13,7 @@
 - [Instagram](https://www.instagram.com/sayan_sen007/)
 - [Facebook](https://m.facebook.com/profile.php?id=100040647903469)
 - [LeetCode](https://leetcode.com/u/Sayan_Sen/)
+- - [LinkedIn](https://www.linkedin.com/in/sayan-sen-38b198255)
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c)
