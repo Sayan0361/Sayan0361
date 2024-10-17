@@ -38,5 +38,13 @@
 
 ---
 
+### 📊 **GitHub Stats**:
+
+![Sayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical)
+
+---
+
 ### ⭐ **Show some love**:
 If you like my work, don't forget to star ⭐ my repositories!
