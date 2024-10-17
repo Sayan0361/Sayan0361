@@ -1,21 +1,28 @@
-## Hi there, I'm Sayan Sen 👋
+## Hi there, I'm **Sayan Sen** 👋
 
-## Sayan0361
+[![GitHub followers](https://img.shields.io/github/followers/Sayan0361?label=Follow&style=social)](https://github.com/Sayan0361)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Sayan_Sen/)
 
-### About Me
-- 🔭 I’m currently pursuing B.Tech in IT
-- 🌱 I’m currently learning React.js and advanced DSA
-- 💬 Ask me about Java, Python, DSA
-- 📫 How to reach me: [sayansen0361@gmail.com](mailto:sayansen0361@gmail.com)
-- You can also check my leetcode profile: (https://leetcode.com/u/Sayan_Sen/)
+---
 
-### Connect with me:
-- [GitHub](https://github.com/Sayan0361)
-- [Instagram](https://www.instagram.com/sayan_sen007/)
-- [Facebook](https://m.facebook.com/profile.php?id=100040647903469)
-- [LinkedIn](https://www.linkedin.com/in/sayan-sen-38b198255)
+### 👨‍💻 **About Me**:
+- 🔭 Currently pursuing **B.Tech in IT**
+- 🌱 Learning **React.js** & **Advanced DSA**
+- 💬 Ask me about **Java, Python, DSA**
+- 📫 How to reach me: [**sayansen0361@gmail.com**](mailto:sayansen0361@gmail.com)
+  
+---
 
-### Languages and Tools:
+### 📫 **Connect with me**:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Sayan0361)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sayan_sen007/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://m.facebook.com/profile.php?id=100040647903469)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-sen-38b198255)
+
+---
+
+### 🛠️ **Languages and Tools**:
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
@@ -29,19 +36,7 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
+---
 
-### Show some ❤️ by starring ⭐ some of the repositories!
-<!--
-**Sayan0361/Sayan0361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ **Show some love**:
+If you like my work, don't forget to star ⭐ my repositories!
