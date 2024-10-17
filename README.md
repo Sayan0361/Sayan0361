@@ -1,7 +1,7 @@
-## Hi there, I'm **Sayan Sen** 👋
+## Hare Krishna, I'm **Sayan Sen** 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Sayan0361?label=Follow&style=social)](https://github.com/Sayan0361)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Sayan_Sen/)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=flat&logo=github)](https://codolio.com/profile/Sayan0361)
 
 ---
 
