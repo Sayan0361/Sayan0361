@@ -10,6 +10,7 @@
 - 🌱 Learning **React.js** & **Advanced DSA**
 - 💬 Ask me about **Java, Python, DSA**
 - 📫 How to reach me: [**sayansen0361@gmail.com**](mailto:sayansen0361@gmail.com)
+- 🖥️ Check out my **Codolio profile**: [**Sayan0361**](https://codolio.com/profile/Sayan0361)
   
 ---
 
@@ -38,23 +39,11 @@
 
 ---
 
-### 📊 **GitHub Stats**:
+### 📊 **Most Used Languages**:
 
 <p align="center">
   <a href="https://github.com/Sayan0361">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan0361&theme=radical&hide_border=true&fire=FF6D00&ring=FF6D00&dates=FF6D00" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sayan0361">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical&hide_border=true&icon_color=FF6D00" alt="Sayan's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sayan0361">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical&hide_border=true&title_color=FF6D00" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical&hide_border=true&title_color=FF6D00&hide=jupyter%20notebook" alt="Top Languages" />
   </a>
 </p>
 
