@@ -39,12 +39,11 @@
 
 ---
 
-### 📊 **Most Used Languages**:
+### 📊 **GitHub Stats**:
 
 <p align="center">
-  <a href="https://github.com/Sayan0361">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical&hide_border=true&title_color=FF6D00&hide=jupyter%20notebook" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical&hide_border=true" alt="Sayan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical&hide_border=true&title_color=FF6D00&exclude_repo=Google%20Colab" alt="Top Languages" />
 </p>
 
 ---
