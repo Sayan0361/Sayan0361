@@ -1,13 +1,14 @@
 ## Hare Krishna, I'm **Sayan Sen** 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Sayan0361?label=Follow&style=social)](https://github.com/Sayan0361)  
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=flat&logo=github)](https://codolio.com/profile/Sayan0361)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=flat&logo=github)](https://codolio.com/profile/Sayan0361)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=vercel)](https://portfolio-tawny-tau-26.vercel.app/)
 
 ---
 
 ### 👨‍💻 **About Me**:
 - 🔭 Currently pursuing **B.Tech in IT**
-- 🌱 Learning **React.js** & **Advanced DSA**
+- 🌱 Learning **Backend Development** & **Advanced DSA**
 - 💬 Ask me about **Java, Python, DSA**
 - 📫 How to reach me: [**sayansen0361@gmail.com**](mailto:sayansen0361@gmail.com)
 - 🖥️ Check out my **Codolio profile**: [**Sayan0361**](https://codolio.com/profile/Sayan0361)
