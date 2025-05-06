@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> नमस्ते (Namaste), I'm **Sayan Sen**
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hii, I'm **Sayan Sen**
 
 <div align="center">
   
@@ -11,15 +11,14 @@
 
 ## 👨‍💻 About Me
 
-> *Building solutions one line of code at a time*
+> *Turning ideas into efficient code.*
 
-I'm an IT undergraduate student passionate about creating efficient and elegant solutions through code. With a focus on backend development and data structures, I'm constantly expanding my skills to become a well-rounded developer.
+I'm an IT undergrad with a passion for backend development and problem-solving. I love building scalable solutions and constantly sharpening my skills in data structures and algorithms.
 
-- 🎓 Pursuing **B.Tech in Information Technology**
-- 💻 Currently mastering **Backend Development** & **Advanced DSA**
-- 🌱 Always learning and exploring new technologies
-- 🔍 Interested in solving complex problems efficiently
-- 🚀 Working towards becoming a skilled software developer
+- 🎓 B.Tech in Information Technology  
+- 💻 Focused on Backend Dev & Advanced DSA  
+- 🌱 Lifelong learner exploring new tech  
+- 🚀 Aspiring full-stack software developer  
 
 ## 🛠️ Tech Stack
 
