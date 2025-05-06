@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hii, I'm **Sayan Sen**
 
 <div align="center">
-  
+
 [![GitHub followers](https://img.shields.io/github/followers/Sayan0361?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=6C63FF)](https://github.com/Sayan0361)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-12100E?style=for-the-badge&logo=vercel&logoColor=white&color=6C63FF)](https://portfolio-tawny-tau-26.vercel.app/)
 [![Codolio](https://img.shields.io/badge/Codolio-View%20Profile-12100E?style=for-the-badge&logo=code&logoColor=white&color=6C63FF)](https://codolio.com/profile/Sayan0361)
@@ -9,16 +9,20 @@
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
 > *Turning ideas into efficient code.*
 
-I'm an IT undergrad with a passion for backend development and problem-solving. I love building scalable solutions and constantly sharpening my skills in data structures and algorithms.
+I'm an IT undergrad passionate about backend development and solving real-world problems with clean, scalable code. Currently exploring advanced DSA and modern web technologies.
 
 - 🎓 B.Tech in Information Technology  
-- 💻 Focused on Backend Dev & Advanced DSA  
-- 🌱 Lifelong learner exploring new tech  
+- 💻 Specializing in Backend Development & Advanced DSA  
+- 🌱 Curious learner diving into MERN stack  
 - 🚀 Aspiring full-stack software developer  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -40,6 +44,12 @@ I'm an IT undergrad with a passion for backend development and problem-solving. 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,17 +58,21 @@ I'm an IT undergrad with a passion for backend development and problem-solving. 
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&hide=jupyter%20notebook" alt="Top Languages" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&hide=jupyter%20notebook" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" height="180em" />
 </div>
+
+---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-sen-38b198255)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sayan_sen007/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/profile.php?id=100040647903469)
@@ -66,22 +80,14 @@ I'm an IT undergrad with a passion for backend development and problem-solving. 
 
 </div>
 
-## 🚀 Featured Projects
-
-- **Coming soon!** - Stay tuned for my upcoming projects
-
-## 🏆 Achievements
-
-- Currently building my portfolio of accomplishments
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sayan0361&style=flat-square&color=6C63FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sayan0361&style=flat-square&color=6C63FF" alt="Profile Views" />
 </div>
 
 <div align="center">
 
-### ⭐ If you find my work valuable, please consider starring my repositories! ⭐
+### ⭐ If you find my work valuable, consider starring my repositories!
 
 </div>
