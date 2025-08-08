@@ -66,20 +66,6 @@ Currently exploring **advanced DSA** and modern **web technologies**.
 
 ---
 
-## 🔥 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sayan0361&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/Sayan0361/Sayan0361/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
