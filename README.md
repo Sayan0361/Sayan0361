@@ -88,9 +88,6 @@ I'm an IT undergrad passionate about backend development and solving real-world 
 
 <div align="center">
 
-## 🐍 Contribution Snake:
-![snake gif](https://github.com/Sayan0361/Sayan0361/blob/output/github-contribution-grid-snake.svg)
-
 ### ⭐ If you find my work valuable, consider starring my repositories!
 
 </div>
