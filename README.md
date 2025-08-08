@@ -52,6 +52,7 @@ Currently exploring **advanced DSA** and modern **web technologies**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -62,6 +63,14 @@ Currently exploring **advanced DSA** and modern **web technologies**.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&hide=jupyter%20notebook" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" height="180em" />
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sayan0361&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
