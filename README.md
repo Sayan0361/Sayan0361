@@ -68,7 +68,7 @@ Currently exploring **advanced DSA** and modern **web technologies**.
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sayan0361&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <img src="https://streak-stats.demolab.com?user=Sayan0361&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
