@@ -15,7 +15,7 @@ jobs:
 
       # Step 2: Download the latest DSA stats image
       - name: Fetch DSA Stats SVG
-        run: curl -o dsa-stats.svg "https://dsastats.vercel.app/api/codolio/Sayan0361?theme=dark"
+        run: curl -o dsa-stats.svg "https://dsastats.vercel.app/api/codolio/Sayan0361?theme=sunset"
 
       # Step 3: Commit and push changes
       - name: Commit and push changes
