@@ -183,19 +183,10 @@ graph TD
 
 <div align="center">
 
-<br>
-
-### 🎵 **Currently Listening To**
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z5ujzulhf2tnlktal4earnvxlq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z5ujzulhf2tnlktal4earnvxlq&redirect=true)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sayan0361&color=6C63FF&style=for-the-badge&label=Profile+Views)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
 
 *Thanks for visiting! Feel free to explore my repositories and don't forget to star ⭐ if you find something interesting!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sayan0361&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
