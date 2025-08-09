@@ -25,10 +25,10 @@
 
 ```yaml
 Name: Sayan Sen
-Role: Backend Developer & Problem Solver
+Role: Developer & Problem Solver
 Education: B.Tech in Information Technology
-Focus: Building scalable web solutions
-Currently: Mastering advanced DSA & MERN stack
+College : B.P. Poddar Institute of Management & Technology
+Currently: Mastering DSA & MERN stack & exploring Nextjs
 Goal: Full-Stack Software Developer
 ```
 
@@ -186,7 +186,7 @@ graph TD
 <br>
 
 ### 🎵 **Currently Listening To**
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z5ujzulhf2tnlktal4earnvxlq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z5ujzulhf2tnlktal4earnvxlq&redirect=true)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z5ujzulhf2tnlktal4earnvxlq&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31z5ujzulhf2tnlktal4earnvxlq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 <br>
 
