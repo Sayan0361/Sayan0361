@@ -66,8 +66,10 @@ Currently exploring **advanced DSA** and modern **web technologies**.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&hide=jupyter%20notebook" height="180em" />
 
-
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sayan_Sen" alt="LeetCode Badges" style="margin-top: 15px;" />
+
+<!-- DSA Stats Card -->
+<img src="https://github.com/Sayan0361/Sayan0361/blob/dsaStats/dsa-stats.svg" alt="DSA Stats" style="margin-top: 15px;" />
 
 </div>
 
