@@ -189,7 +189,7 @@ graph TD
 <br>
 
 ### 🎵 **Currently Listening To**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k5kwr6hk3tgkbncf4icxa44oge&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=6c63ff)](https://spotify-github-profile.vercel.app/api/view?uid=31k5kwr6hk3tgkbncf4icxa44oge&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z5ujzulhf2tnlktal4earnvxlq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z5ujzulhf2tnlktal4earnvxlq&redirect=true)
 
 <br>
 
@@ -198,8 +198,6 @@ graph TD
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
-
-### ⭐ **"Code is like humor. When you have to explain it, it's bad."** ⭐
 
 *Thanks for visiting! Feel free to explore my repositories and don't forget to star ⭐ if you find something interesting!*
 
