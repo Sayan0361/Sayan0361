@@ -67,6 +67,8 @@ Currently exploring **advanced DSA** and modern **web technologies**.
 
 ---
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Sayan_Sen" alt="LeetCode Badges" />
+
 ## 🤝 Connect With Me
 
 <div align="center">
