@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm **Sayan Sen** 👨‍💻
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;MERN+Stackt+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A)
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;MERN+Stack+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A)
 
 <br>
 
@@ -15,7 +15,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
 ## 🚀 About Me
 
@@ -40,9 +40,9 @@ Goal: Full-Stack Software Developer
 
 ---
 
-## 🛠️ **Technology Arsenal**
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
-<div align="center">
+## 🛠️ **Technology Arsenal**
 
 ### **💻 Programming Languages**
 <p>
@@ -68,10 +68,10 @@ Goal: Full-Stack Software Developer
 
 ---
 
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
+
 ## 📈 **GitHub Analytics**
 
-<div align="center">
-  
 <table>
 <tr>
 <td width="50%">
@@ -93,9 +93,9 @@ Goal: Full-Stack Software Developer
 
 ---
 
-## 🏆 **Achievements & Progress**
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
-<div align="center">
+## 🏆 **Achievements & Progress**
 
 ### **LeetCode Journey**
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sayan_Sen" alt="LeetCode Badges" />
@@ -110,9 +110,9 @@ Goal: Full-Stack Software Developer
 
 ---
 
-## 🎯 **Current Focus**
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
-<div align="center">
+## 🎯 **Current Focus**
 
 ```mermaid
 graph TD
@@ -131,9 +131,9 @@ graph TD
 
 ---
 
-## 🔥 **Recent Activity**
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
-<div align="center">
+## 🔥 **Recent Activity**
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -144,9 +144,9 @@ graph TD
 
 ---
 
-## 🌐 **Let's Connect**
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
-<div align="center">
+## 🌐 **Let's Connect**
 
 <table>
 <tr>
@@ -181,7 +181,7 @@ graph TD
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
 
@@ -190,3 +190,5 @@ graph TD
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayan0361&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+
