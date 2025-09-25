@@ -23,13 +23,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```yaml
-Name: Sayan Sen
-Role: Developer & Problem Solver
-Education: B.Tech in Information Technology
-College : B.P. Poddar Institute of Management & Technology
-Currently: Mastering DSA & MERN stack & exploring Nextjs
-Goal: Full-Stack Software Developer
+```json
+{
+  "name": "Sayan Sen",
+  "role": "Developer & Problem Solver",
+  "education": "B.Tech in Information Technology",
+  "college": "B.P. Poddar Institute of Management & Technology",
+  "currently": ["Mastering DSA", "MERN stack", "Exploring Nextjs"],
+  "goal": "Full-Stack Software Developer"
+}
 ```
 
 **🔭 What I'm up to:**
@@ -190,5 +192,3 @@ graph TD
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayan0361&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
-
-
