@@ -2,8 +2,6 @@
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;MERN+Stack+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A)
-
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/Sayan0361?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=6C63FF)](https://github.com/Sayan0361)
@@ -29,18 +27,9 @@
   "role": "Developer & Problem Solver",
   "education": "B.Tech in Information Technology",
   "college": "B.P. Poddar Institute of Management & Technology",
-  "currently": ["Mastering DSA", "MERN stack", "Exploring Nextjs"],
-  "goal": "Full-Stack Software Developer"
+  "currently": ["Mastering DSA", "MERN stack"],
 }
 ```
-
-**🔭 What I'm up to:**
-- 🎯 Diving deep into **Data Structures & Algorithms**
-- 🌱 Building robust backends with **Node.js & Express**
-- 💡 Creating full-stack applications with **MERN**
-- 📚 Continuously learning and growing in tech
-
----
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
@@ -114,27 +103,6 @@
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
-## 🎯 **Current Focus**
-
-```mermaid
-graph TD
-    A[🎯 Learning Goals] --> B[Advanced DSA]
-    A --> C[MERN Mastery]
-    A --> D[System Design]
-    B --> E[Problem Solving]
-    C --> F[Full-Stack Projects]
-    D --> G[Scalable Architecture]
-    E --> H[🚀 Software Developer]
-    F --> H
-    G --> H
-```
-
-</div>
-
----
-
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
-
 ## 🔥 **Recent Activity**
 
 <!--START_SECTION:activity-->
@@ -186,9 +154,5 @@ graph TD
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
-
-*Thanks for visiting! Feel free to explore my repositories and don't forget to star ⭐ if you find something interesting!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sayan0361&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
