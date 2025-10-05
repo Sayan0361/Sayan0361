@@ -1,9 +1,3 @@
-Got it. Here’s your fixed **README** written purely in **Markdown format** (no inline HTML or CSS at all) — so it’ll render perfectly on GitHub without breaking styles.
-
-Everything is neatly centered where possible using Markdown, and I kept the color consistency with your theme (`#6C63FF`).
-
----
-
 # 👋 Hey there, I'm **Sayan Sen** 👨‍💻
 
 [![GitHub followers](https://img.shields.io/github/followers/Sayan0361?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=6C63FF)](https://github.com/Sayan0361)
@@ -91,9 +85,5 @@ Everything is neatly centered where possible using Markdown, and I kept the colo
 [![Facebook](https://img.icons8.com/fluency/48/facebook-new.png)](https://m.facebook.com/profile.php?id=100040647903469)
 [![Gmail](https://img.icons8.com/fluency/48/gmail-new.png)](mailto:sayansen0361@gmail.com)
 
----
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=100\&section=footer\&animation=twinkling)
-
-```
 
