@@ -27,7 +27,7 @@
 
 ### 💻 Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=java,python,c,js,sql\&theme=dark)
+![Languages](https://skillicons.dev/icons?i=java,python,c,js,cs,ts,sql&theme=dark)
 
 ### 🎨 Frontend Development
 
@@ -35,11 +35,11 @@
 
 ### ⚙️ Backend & Database
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb\&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=dark)
 
 ### 🔧 Tools & Platforms
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel\&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker&theme=dark)
 
 ---
 
@@ -69,10 +69,6 @@
 ---
 
 ## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayan0361\&theme=tokyo-night\&bg_color=0D1117\&color=6C63FF\&line=6C63FF\&point=FFFFFF\&area=true\&hide_border=true)
 
