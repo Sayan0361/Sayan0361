@@ -1,5 +1,3 @@
-# Sayan Sen
-
 <div align="center">
     <img width="300" src="./assets/main.gif" alt="coding"/>
     <br/>
