@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="300" src="./shinchan.gif" alt="coding"/>
+    <img width="300" src="./main.gif" alt="coding"/>
     <br/>
     <br/>
     <a href="https://git.io/typing-svg">
