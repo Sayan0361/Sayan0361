@@ -61,31 +61,31 @@ const sayan = {
 
 ---
 
-## LeetCode Progress
+## GitHub Statistics
 
 <div align="center">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sayan_Sen&theme=dracula" alt="LeetCode Badges"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" width="48%"/> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan0361&theme=radical&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak" width="48%"/>
+</div>
+
+<!-- <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages" width="40%"/>
+</div> -->
+
+<!-- <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sayan0361&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+</div> -->
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan0361&theme=react-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
 
-## GitHub Statistics
+## LeetCode Badges
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan0361&theme=radical&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages" width="40%"/>
-</div>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sayan0361&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan0361&theme=react-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sayan_Sen&theme=dracula" alt="LeetCode Badges"/>
 </div>
 
 ---
