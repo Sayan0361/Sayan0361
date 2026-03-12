@@ -72,6 +72,14 @@ const sayan = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages" width="40%"/>
 </div> -->
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages" width="40%"/>
+</div>
+
+<!-- <div align="center">
+     <img src="https://raw.githubusercontent.com/Sayan0361/Sayan0361/main/dsa-stats.svg" alt="DSA Stats" width="40%"/>
+</div> -->
+
 <!-- <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sayan0361&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div> -->
