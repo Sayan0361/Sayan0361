@@ -65,7 +65,7 @@ const sayan = {
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan0361&theme=radical&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" alt="GitHub Stats" width="48%"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" alt="GitHub Stats" width="48%"/> -->
 </div>
 
 <br/>
