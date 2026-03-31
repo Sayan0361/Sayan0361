@@ -64,25 +64,31 @@ const sayan = {
 ## GitHub Statistics
 
 <div align="center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" width="48%"/> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan0361&theme=radical&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sayan0361&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" alt="GitHub Stats" width="48%"/>
 </div>
 
-<!-- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages" width="40%"/>
-</div> -->
+<br/>
 
 <div align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sayan0361&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages" width="40%"/>
 </div>
 
-<!-- <div align="center">
-     <img src="https://raw.githubusercontent.com/Sayan0361/Sayan0361/main/dsa-stats.svg" alt="DSA Stats" width="40%"/>
-</div> -->
+---
 
-<!-- <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sayan0361&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
-</div> -->
+## Contribution
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayan0361/Sayan0361/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayan0361/Sayan0361/output/github-contribution-grid-snake.svg">
+        <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sayan0361/Sayan0361/output/github-contribution-grid-snake-dark.svg" width="95%">
+    </picture>
+</div>
+
+---
+
+## Activity Graph
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan0361&theme=react-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
@@ -97,3 +103,7 @@ const sayan = {
 </div>
 
 ---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sayan0361&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
