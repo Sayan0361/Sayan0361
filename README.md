@@ -37,9 +37,9 @@ const sayan = {
         company: "Origent Technologies",
         stack: ["ASP.NET MVC", "C#", "Razor", "jQuery", "SQL Server", "Dapper ORM"]
     },
-    technicalInterests: ["Full Stack Development", "Problem Solving", "System Design", "Open Source"],
+    technicalInterests: ["Full Stack Development", "Problem Solving", "System Design"],
     languages: ["JavaScript", "TypeScript", "C#", "Java", "Python", "SQL"],
-    frameworks: ["React", "Node.js", "Express", "ASP.NET MVC", "Tailwind CSS"],
+    frameworks: ["React", "Node.js", "Express", "Nestjs", "ASP.NET MVC", "Tailwind CSS"],
     databases: ["MongoDB", "PostgreSQL", "SQL Server", "Redis"],
     tools: ["Git", "Docker", "Postman", "Cloudinary", "Vercel"]
 };
@@ -51,11 +51,11 @@ const sayan = {
 
 <div align="center">
 
-![Languages](https://skillicons.dev/icons?i=js,ts,cs,java,python,c,sql&theme=dark&perline=7)
+![Languages](https://skillicons.dev/icons?i=js,ts,cs,java,python,c,sql&theme=dark&perline=10)
 
-![Web Technologies](https://skillicons.dev/icons?i=html,css,react,jquery,tailwind,nodejs,express&theme=dark&perline=7)
+![Web Technologies](https://skillicons.dev/icons?i=html,css,react,jquery,tailwind,nodejs,express,nestjs&theme=dark&perline=10)
 
-![Tools](https://skillicons.dev/icons?i=dotnet,docker,git,postman,vercel,redis,mongodb,postgres,cloudinary&theme=dark&perline=9)
+![Tools](https://skillicons.dev/icons?i=dotnet,docker,git,postman,vercel,redis,mongodb,postgres,cloudinary&theme=dark&perline=10)
 
 </div>
 
