@@ -102,8 +102,3 @@ const sayan = {
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Sayan_Sen&theme=dracula" alt="LeetCode Badges"/>
 </div>
 
----
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sayan0361&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
