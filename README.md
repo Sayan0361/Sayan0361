@@ -51,11 +51,11 @@ const sayan = {
 
 <div align="center">
 
-![Languages](https://skillicons.dev/icons?i=js,ts,cs,java,python,c,sql&theme=dark&perline=10)
+![Languages](https://skillicons.dev/icons?i=js,ts,cs,java,python,sql&theme=dark&perline=10)
 
 ![Web Technologies](https://skillicons.dev/icons?i=html,css,react,jquery,tailwind,nodejs,express,nestjs&theme=dark&perline=10)
 
-![Tools](https://skillicons.dev/icons?i=dotnet,docker,git,postman,vercel,redis,mongodb,postgres,cloudinary&theme=dark&perline=10)
+![Tools](https://skillicons.dev/icons?i=dotnet,mongodb,postgres,docker,aws,redis,git,github,postman,vercel,bun,pnpm&theme=dark&perline=15)
 
 </div>
 
