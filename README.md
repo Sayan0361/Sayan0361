@@ -33,7 +33,7 @@ const sayan = {
         batch: "2022-2026"
     },
     current: {
-        role: "Software Analyst Intern",
+        role: "Junior Software Analyst",
         company: "Origent Technologies",
         stack: ["ASP.NET MVC", "C#", "Razor", "jQuery", "SQL Server", "Dapper ORM"]
     },
