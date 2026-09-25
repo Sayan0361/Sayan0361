@@ -15,7 +15,8 @@
 
 ## About Me
 
-Junior Software Analyst at Origent Technologies with experience in developing web applications using ASP.NET MVC, SQL Server, and modern JavaScript frameworks. Proficient in full-stack development with the MERN stack and passionate about writing clean, maintainable code. Strong background in data structures and algorithms with Knight badge on LeetCode (1880+ rating).
+Software Developer with experience building web applications using ASP.NET MVC, SQL Server, and modern JavaScript frameworks. Comfortable working across the stack with the MERN stack, and I care about writing clean, maintainable code. Strong foundation in data structures and algorithms with Knight badge on LeetCode (1880+ rating).
+
 
 ```javascript
 const sayan = {
@@ -30,16 +31,21 @@ const sayan = {
     education: {
         degree: "B.Tech in Information Technology",
         college: "B.P. Poddar Institute of Management and Technology",
-        batch: "2022-2026"
+        batch: "2022-2026",
+        status: "Graduated"
     },
-    current: {
-        role: "Junior Software Analyst",
-        company: "Origent Technologies",
-        stack: ["ASP.NET MVC", "C#", "Razor", "jQuery", "SQL Server", "Dapper ORM"]
-    },
+    experience: [
+        {
+            company: "Origent Technologies",
+            role: "Junior Software Analyst",
+            duration: "5 Jan 2026 – 21 Aug 2026",
+            project: "EZReports",
+            stack: ["ASP.NET MVC", "C#", "Razor", "jQuery", "SQL Server", "Dapper ORM"]
+        }
+    ],
     technicalInterests: ["Full Stack Development", "Problem Solving", "System Design"],
     languages: ["JavaScript", "TypeScript", "C#", "Java", "Python", "SQL"],
-    frameworks: ["React", "Node.js", "Express", "Nestjs", "ASP.NET MVC", "Tailwind CSS"],
+    frameworks: ["React", "Node.js", "Express", "Nextjs", "Nestjs", "ASP.NET MVC", "Tailwind CSS"],
     databases: ["MongoDB", "PostgreSQL", "SQL Server", "Redis"],
     tools: ["Git", "Docker", "Postman", "Cloudinary", "Vercel"]
 };
@@ -53,7 +59,7 @@ const sayan = {
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,cs,java,python,sql&theme=dark&perline=10)
 
-![Web Technologies](https://skillicons.dev/icons?i=html,css,react,jquery,tailwind,nodejs,express,nestjs,dotnet&theme=dark&perline=10)
+![Web Technologies](https://skillicons.dev/icons?i=html,css,react,jquery,tailwind,nextjs,nodejs,express,nestjs,dotnet&theme=dark&perline=10)
 
 ![Tools](https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,aws,redis,git,github,postman,vercel,bun,pnpm&theme=dark&perline=15)
 
