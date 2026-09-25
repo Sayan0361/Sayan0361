@@ -15,7 +15,7 @@
 
 ## About Me
 
-Software Developer with experience building web applications using ASP.NET MVC, SQL Server, and modern JavaScript frameworks. Comfortable working across the stack with the MERN stack, and I care about writing clean, maintainable code. Strong foundation in data structures and algorithms with Knight badge on LeetCode (1880+ rating).
+Software Developer with experience building web applications using ASP.NET MVC, SQL Server, and modern JavaScript frameworks. Comfortable working across the stack with the MERN stack, and I care about writing clean, maintainable code.
 
 
 ```javascript
