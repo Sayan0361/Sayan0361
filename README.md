@@ -94,14 +94,14 @@ const sayan = {
 
 ---
 
-## Activity Graph
+<!--## Activity Graph
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayan0361&theme=react-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
-
+-->
 ## LeetCode Badges
 
 <div align="center">
